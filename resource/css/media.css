@@ -1,0 +1,1507 @@
+@media (max-width: 2560px) {
+    .ispolnitel {
+        position: absolute;
+        margin-top: -649px;
+        margin-left: 280px;
+    }
+
+    .tack {
+        position: relative;
+        float: right;
+        font-family: verdana;
+        padding-left: 10px;
+        text-align: center;
+        margin-right: 20px;
+        border: 4px double black;
+        /* Параметры границы */
+        background: rgb(255, 255, 255);
+        /* Цвет фона */
+        padding: 10px;
+        /* Поля вокруг текста */
+        border-radius: 20px;
+        margin-right: 20px;
+        text-align: center;
+    }
+
+    .fix-music-text3 {
+        display: flex;
+        width: 247px;
+        height: 286px;
+        margin-left: 1350px;
+        margin-top: -415px;
+/*      width: 247px;
+        height: 286px; */
+    }
+
+    .fix-music-text2 {
+        display: flex;
+        width: 270px;
+        height: 44px;
+        margin-left: 1200px;
+        margin-top: -600px;
+
+    }
+
+    .fix-music-text {
+        display: flex;
+        width: 175px;
+        height: 400px;
+        margin-left: 1100px;
+        margin-top: 50px;
+        /*         width: 319px;
+        height: 242px; */
+    }
+
+    .fix-music-text4 {
+        display: flex;
+        width: 319px;
+        height: 242px;
+        margin-left: 1200px;
+        margin-top: 150px;
+    }
+
+    .img-fix {
+        display: flex;
+        height: 250px;
+        margin-left: 1205px;
+        margin-top: -200px;
+    }
+}
+
+@media (max-width: 1920px) {
+    .ispolnitel {
+        position: absolute;
+        margin-top: -649px;
+        margin-left: 280px;
+    }
+
+    .tack {
+        position: relative;
+        float: right;
+        font-family: verdana;
+        padding-left: 10px;
+        text-align: center;
+        margin-right: 20px;
+        border: 4px double black;
+        /* Параметры границы */
+        background: rgb(255, 255, 255);
+        /* Цвет фона */
+        padding: 10px;
+        /* Поля вокруг текста */
+        border-radius: 20px;
+        margin-right: 20px;
+        text-align: center;
+    }
+
+    .fix-music-text3 {
+        display: flex;
+        width: 247px;
+        height: 286px;
+        margin-left: 1050px;
+        margin-top: -415px;
+/*      width: 247px;
+        height: 286px; */
+    }
+
+    .fix-music-text2 {
+        display: flex;
+        width: 270px;
+        height: 44px;
+        margin-left: 900px;
+        margin-top: -600px;
+
+    }
+
+    .fix-music-text {
+        display: flex;
+        width: 175px;
+        height: 400px;
+        margin-left: 800px;
+        margin-top: 50px;
+        /*         width: 319px;
+        height: 242px; */
+    }
+
+    .fix-music-text4 {
+        display: flex;
+        width: 319px;
+        height: 242px;
+        margin-left: 900px;
+        margin-top: 150px;
+    }
+
+    .img-fix {
+        display: flex;
+        height: 250px;
+        margin-left: 905px;
+        margin-top: -200px;
+    }
+}
+
+@media (max-width: 1680px) {
+    .fix-bag {
+        position: absolute;
+        margin-top: -649px;
+        margin-left: 280px;
+    }
+
+    .tack {
+        position: relative;
+        float: right;
+        font-family: verdana;
+        padding-left: 10px;
+        text-align: center;
+        margin-right: 20px;
+        border: 4px double black;
+        /* Параметры границы */
+        background: rgb(255, 255, 255);
+        /* Цвет фона */
+        padding: 10px;
+        /* Поля вокруг текста */
+        border-radius: 20px;
+        margin-right: 20px;
+        text-align: center;
+    }
+
+    .fix-music-text3 {
+        display: flex;
+        width: 247px;
+        height: 286px;
+        margin-left: 890px;
+        margin-top: -255px;
+
+    }
+
+    .fix-music-text2 {
+        display: flex;
+        width: 270px;
+        height: 44px;
+        margin-left: 750px;
+        margin-top: -600px;
+
+    }
+
+    .fix-music-text {
+        display: flex;
+        width: 319px;
+        height: 242px;
+        margin-left: 550px;
+        margin-top: 50px;
+    }
+
+    .fix-music-text4 {
+        display: flex;
+        width: 319px;
+        height: 242px;
+        margin-left: 585px;
+        margin-top: -75px;
+    }
+
+    .img-fix {
+        display: flex;
+        height: 250px;
+        margin-left: 585px;
+        margin-top: -200px;
+    }
+}
+
+@media (max-width: 1600px) {
+    .ispolnitel {
+        position: absolute;
+        margin-top: -649px;
+        margin-left: 280px;
+    }
+
+    .tack {
+        position: relative;
+        float: right;
+        font-family: verdana;
+        padding-left: 10px;
+        text-align: center;
+        margin-right: 20px;
+        border: 4px double black;
+        /* Параметры границы */
+        background: rgb(255, 255, 255);
+        /* Цвет фона */
+        padding: 10px;
+        /* Поля вокруг текста */
+        border-radius: 20px;
+        margin-right: 20px;
+        text-align: center;
+    }
+
+    .music-text3 {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 8px;
+
+        position: absolute;
+        width: 247px;
+        height: 286px;
+        left: 890px;
+        top: 300px;
+
+    }
+
+    .music-text2 {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 8px;
+
+        position: absolute;
+        width: 270px;
+        height: 44px;
+        left: 750px;
+        top: 200px;
+
+    }
+
+    .music-text {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 8px;
+
+        position: absolute;
+        width: 319px;
+        height: 242px;
+        left: 550px;
+        top: 300px;
+    }
+
+    .music-text4 {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 8px;
+
+        position: absolute;
+        width: 319px;
+        height: 242px;
+        left: 575px;
+        top: 550px;
+    }
+
+    .img-remov {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 8px;
+
+        position: absolute;
+        height: 250px;
+        left: 585px;
+        top: 600px;
+    }
+}
+
+@media (max-width: 1536px) {
+    .ispolnitel {
+        position: absolute;
+        margin-top: -649px;
+        margin-left: 280px;
+    }
+
+    .tack {
+        position: relative;
+        float: right;
+        font-family: verdana;
+        padding-left: 10px;
+        text-align: center;
+        margin-right: 20px;
+        border: 4px double black;
+        /* Параметры границы */
+        background: rgb(255, 255, 255);
+        /* Цвет фона */
+        padding: 10px;
+        /* Поля вокруг текста */
+        border-radius: 20px;
+        margin-right: 20px;
+        text-align: center;
+    }
+
+    .fix-music-text3 {
+        display: flex;
+        width: 247px;
+        height: 286px;
+        margin-left: 700px;
+        margin-top: -50px;
+
+    }
+
+    .fix-music-text2 {
+        display: flex;
+        width: 270px;
+        height: 44px;
+        margin-left: 700px;
+        top: 200px;
+
+    }
+
+    .fix-music-text {
+        display: flex;
+        width: 319px;
+        height: 242px;
+        margin-left: 700px;
+        top: 300px;
+    }
+
+    .fix-music-text4 {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 8px;
+
+        position: absolute;
+        width: 319px;
+        height: 242px;
+        left: 100px;
+        margin-top: 200px;
+    }
+
+    .img-fix {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 8px;
+
+        position: absolute;
+        height: 250px;
+        left: 105px;
+        margin-top: 250px;
+    }
+}
+
+@media (max-width: 1440px) {
+    .ispolnitel {
+        position: absolute;
+        margin-top: -649px;
+        margin-left: 300px;
+    }
+
+    .tack {
+        position: relative;
+        float: right;
+        font-family: verdana;
+        padding-left: 10px;
+        text-align: center;
+        margin-right: 20px;
+        border: 4px double black;
+        /* Параметры границы */
+        background: rgb(255, 255, 255);
+        /* Цвет фона */
+        padding: 10px;
+        /* Поля вокруг текста */
+        border-radius: 20px;
+        margin-right: 20px;
+        text-align: center;
+    }
+
+    .music-text3 {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 8px;
+
+        position: absolute;
+        width: 247px;
+        height: 286px;
+        left: 373px;
+        top: 1000px;
+
+    }
+
+    .music-text2 {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 8px;
+
+        position: absolute;
+        width: 270px;
+        height: 44px;
+        left: 230px;
+        top: 900px;
+
+    }
+
+    .music-text {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 8px;
+
+        position: absolute;
+        width: 319px;
+        height: 242px;
+        left: 20px;
+        top: 1000px;
+    }
+
+    .music-text4 {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 8px;
+
+        position: absolute;
+        width: 319px;
+        height: 242px;
+        left: 1090px;
+        top: 670px;
+    }
+
+    .img-remov {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 8px;
+
+        position: absolute;
+        height: 250px;
+        left: 1100px;
+        top: 720px;
+    }
+}
+
+@media (max-width: 1280px) {
+    .fix-bag {
+        margin-top: -650px;
+        margin-left: 300px;
+    }
+
+    .tack {
+        position: relative;
+        float: right;
+        font-family: verdana;
+        padding-left: 10px;
+        text-align: center;
+        margin-right: 20px;
+        border: 4px double black;
+        /* Параметры границы */
+        background: rgb(255, 255, 255);
+        /* Цвет фона */
+        padding: 10px;
+        /* Поля вокруг текста */
+        border-radius: 20px;
+        margin-right: 20px;
+        text-align: center;
+    }
+
+    .fix-music-text3 {
+        width: 247px;
+        height: 286px;
+        margin-left: 373px;
+        margin-top: -250px;
+
+    }
+
+    .fix-music-text2 {
+        width: 270px;
+        height: 44px;
+        margin-left: 200px;
+        margin-top: 50px;
+
+    }
+
+    .fix-music-text {
+        width: 319px;
+        height: 242px;
+        margin-left: 20px;
+        margin-top: 50px;
+    }
+
+    .fix-music-text4 {
+        margin-left: 850px;
+        margin-top: -600px;
+    }
+
+    .img-fix {
+        margin-left: 855px;
+        margin-top: -550px;
+    }
+}
+
+@media (max-width: 1200px) {
+    .ispolnitel {
+        position: absolute;
+        margin-top: -649px;
+        margin-left: 300px;
+    }
+
+    .tack {
+        position: relative;
+        float: right;
+        font-family: verdana;
+        padding-left: 10px;
+        text-align: center;
+        margin-right: 20px;
+        border: 4px double black;
+        /* Параметры границы */
+        background: rgb(255, 255, 255);
+        /* Цвет фона */
+        padding: 10px;
+        /* Поля вокруг текста */
+        border-radius: 20px;
+        margin-right: 20px;
+        text-align: center;
+    }
+
+    .music-text3 {
+        display: flex;
+        width: 247px;
+        height: 286px;
+        left: 373px;
+        top: 1000px;
+
+    }
+
+    .music-text2 {
+        display: flex;
+        width: 270px;
+        height: 44px;
+        left: 230px;
+        top: 900px;
+
+    }
+
+    .music-text {
+        display: flex;
+        width: 319px;
+        height: 242px;
+        left: 20px;
+        top: 1000px;
+    }
+
+    .fix-music-text4 {
+        display: flex;
+        width: 319px;
+        height: 242px;
+        left: -25px;
+        top: 1270px;
+    }
+
+    .img-fix {
+        display: flex;
+        height: 250px;
+        left: -25px;
+        top: 1280px;
+    }
+}
+
+@media (max-width: 1152px) {
+    .ispolnitel {
+        position: absolute;
+        margin-top: -649px;
+        margin-left: 300px;
+    }
+
+    .tack {
+        position: relative;
+        float: right;
+        font-family: verdana;
+        padding-left: 10px;
+        text-align: center;
+        margin-right: 20px;
+        border: 4px double black;
+        /* Параметры границы */
+        background: rgb(255, 255, 255);
+        /* Цвет фона */
+        padding: 10px;
+        /* Поля вокруг текста */
+        border-radius: 20px;
+        margin-right: 20px;
+        text-align: center;
+    }
+
+    .music-text3 {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 8px;
+
+        position: absolute;
+        width: 247px;
+        height: 286px;
+        left: 373px;
+        top: 1000px;
+
+    }
+
+    .music-text2 {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 8px;
+
+        position: absolute;
+        width: 270px;
+        height: 44px;
+        left: 230px;
+        top: 900px;
+
+    }
+
+    .music-text {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 8px;
+
+        position: absolute;
+        width: 319px;
+        height: 242px;
+        left: 20px;
+        top: 1000px;
+    }
+
+    .music-text4 {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 8px;
+
+        position: absolute;
+        width: 319px;
+        height: 242px;
+        left: 830px;
+        top: 670px;
+    }
+
+    .img-remov {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 8px;
+
+        position: absolute;
+        height: 250px;
+        left: 835px;
+        top: 720px;
+    }
+}
+
+@media (max-width: 1024px) {
+    .ispolnitel {
+        position: absolute;
+        margin-top: -649px;
+        margin-left: 300px;
+    }
+
+    .tack {
+        position: relative;
+        float: right;
+        font-family: verdana;
+        padding-left: 10px;
+        text-align: center;
+        margin-right: 20px;
+        border: 4px double black;
+        /* Параметры границы */
+        background: rgb(255, 255, 255);
+        /* Цвет фона */
+        padding: 10px;
+        /* Поля вокруг текста */
+        border-radius: 20px;
+        margin-right: 20px;
+        text-align: center;
+    }
+
+    .fix-music-text3 {
+        display: flex;
+        width: 247px;
+        height: 286px;
+        left: 350px;
+        top: 1000px;
+
+    }
+
+    .fix-music-text2 {
+        display: flex;
+        width: 270px;
+        height: 44px;
+        left: 230px;
+        top: 900px;
+
+    }
+
+    .fix-music-text {
+        display: flex;
+        width: 319px;
+        height: 242px;
+        left: 20px;
+        top: 1000px;
+    }
+
+    .fix-music-text4 {
+        display: flex;
+        width: 319px;
+        height: 242px;
+        left: -205px;
+        top: 1200px;
+    }
+
+    .img-fix {
+        display: flex;
+        height: 100px;
+        margin-left: 745px;
+        margin-top: -625px;
+    }
+}
+
+@media (max-width: 854px) {
+    .ispolnitel {
+        position: absolute;
+        margin-top: 20px;
+        margin-left: 0px;
+    }
+
+    .tack {
+        position: relative;
+        float: right;
+        font-family: verdana;
+        padding-left: 10px;
+        text-align: center;
+        margin-right: 20px;
+        border: 4px double black;
+        /* Параметры границы */
+        background: rgb(255, 255, 255);
+        /* Цвет фона */
+        padding: 10px;
+        /* Поля вокруг текста */
+        border-radius: 20px;
+        margin-right: 20px;
+        text-align: center;
+    }
+
+    .fix-music-text3 {
+        display: flex;
+        width: 247px;
+        height: 286px;
+        margin-left: 500px;
+        margin-top: -50px;
+
+    }
+
+    .fix-music-text2 {
+        display: flex;
+        width: 270px;
+        height: 44px;
+        margin-left: 500px;
+        top: 700px;
+
+    }
+
+    .fix-music-text {
+        display: flex;
+        width: 319px;
+        height: 242px;
+        margin-left: 500px;
+        top: 800px;
+    }
+
+    .fix-music-text4 {
+        display: flex;
+        width: 319px;
+        height: 242px;
+        margin-left: 215px;
+        margin-top: 300px;
+    }
+
+    .img-fix {
+        display: flex;
+        height: 250px;
+        margin-left: 20px;
+        margin-top: 300px;
+    }
+
+    .boxhead {
+        top: 1500px;
+        left: -300px;
+    }
+
+}
+
+@media (max-width: 800px) {
+    .ispolnitel {
+        position: absolute;
+        margin-top: 20px;
+        margin-left: 0px;
+    }
+
+    .tack {
+        position: relative;
+        float: right;
+        font-family: verdana;
+        padding-left: 10px;
+        text-align: center;
+        margin-right: 20px;
+        border: 4px double black;
+        /* Параметры границы */
+        background: rgb(255, 255, 255);
+        /* Цвет фона */
+        padding: 10px;
+        /* Поля вокруг текста */
+        border-radius: 20px;
+        margin-right: 20px;
+        text-align: center;
+    }
+
+    .music-text3 {
+        display: flex;
+        width: 247px;
+        height: 286px;
+        left: 400px;
+        top: 1000px;
+
+    }
+
+    .music-text2 {
+        display: flex;
+        width: 270px;
+        height: 44px;
+        left: 400px;
+        top: 700px;
+
+    }
+
+    .music-text {
+        display: flex;
+        width: 319px;
+        height: 242px;
+        left: 400px;
+        top: 800px;
+    }
+
+    .music-text4 {
+        display: flex;
+
+        width: 319px;
+        height: 242px;
+        left: 30px;
+        top: 1500px;
+    }
+
+    .img-remov {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 8px;
+
+        position: absolute;
+        height: 250px;
+        left: 20px;
+        top: 1550px;
+    }
+}
+
+@media (max-width: 768px) {
+    .ispolnitel {
+        position: absolute;
+        margin-top: 20px;
+        margin-left: 0px;
+    }
+
+    .tack {
+        position: relative;
+        float: right;
+        font-family: verdana;
+        padding-left: 10px;
+        text-align: center;
+        margin-right: 20px;
+        border: 4px double black;
+        /* Параметры границы */
+        background: rgb(255, 255, 255);
+        /* Цвет фона */
+        padding: 10px;
+        /* Поля вокруг текста */
+        border-radius: 20px;
+        margin-right: 20px;
+        text-align: center;
+    }
+
+    .fix-music-text3 {
+        display: flex;
+        width: 247px;
+        height: 286px;
+        margin-left: 380px;
+        top: 1000px;
+
+    }
+
+    .fix-music-text2 {
+        display: flex;
+        width: 270px;
+        height: 44px;
+        margin-left: 380px;
+        top: 700px;
+
+    }
+
+    .fix-music-text {
+        display: flex;
+        width: 319px;
+        height: 242px;
+        margin-left: 380px;
+        top: 800px;
+    }
+
+    .music-text4 {
+        display: flex;
+        width: 319px;
+        height: 242px;
+        left: 30px;
+        top: 1500px;
+    }
+
+    .img-remov {
+        display: flex;
+        height: 250px;
+        left: 20px;
+        top: 1550px;
+    }
+}
+
+@media (max-width: 640px) {
+    .ispolnitel {
+        position: absolute;
+        margin-top: 20px;
+        margin-left: 0px;
+    }
+
+    .tack {
+        position: relative;
+        float: right;
+        font-family: verdana;
+        padding-left: 10px;
+        text-align: center;
+        margin-right: 20px;
+        border: 4px double black;
+        /* Параметры границы */
+        background: rgb(255, 255, 255);
+        /* Цвет фона */
+        padding: 10px;
+        /* Поля вокруг текста */
+        border-radius: 20px;
+        margin-right: 0px;
+        text-align: center;
+        margin-top: 35px;
+    }
+
+    .fix-music-text3 {
+        display: flex;
+        width: 247px;
+        height: 286px;
+        margin-left: 300px;
+        top: 1000px;
+
+    }
+
+    .fix-music-text2 {
+        display: flex;
+        width: 270px;
+        height: 44px;
+        margin-left: 300px;
+        top: 700px;
+
+    }
+
+    .fix-music-text {
+        display: flex;
+        width: 319px;
+        height: 242px;
+        margin-left: 300px;
+        top: 800px;
+    }
+
+    .music-text4 {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 8px;
+
+        position: absolute;
+        width: 319px;
+        height: 242px;
+        left: 30px;
+        top: 1750px;
+    }
+
+    .img-remov {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 8px;
+
+        position: absolute;
+        height: 250px;
+        left: 20px;
+        top: 1800px;
+    }
+
+    .boxhead {
+        margin-left: -20px;
+        margin-top: -250px;
+
+    }
+
+    .fing-sps {
+        margin-top: 250px;
+    }
+
+    .fix-bag {
+        margin-top: -680px;
+        margin-left: 295px;
+    }
+}
+
+@media (max-width: 480px) {
+    .ispolnitel {
+        position: absolute;
+        margin-top: 20px;
+        margin-left: 0px;
+    }
+
+    .tack {
+        position: relative;
+        float: right;
+        font-family: verdana;
+        padding-left: 10px;
+        text-align: center;
+        border: 4px double black;
+        /* Параметры границы */
+        background: rgb(255, 255, 255);
+        /* Цвет фона */
+        padding: 10px;
+        /* Поля вокруг текста */
+        border-radius: 20px;
+        margin-right: 20px;
+        text-align: center;
+        right: 20px;
+    }
+
+    .music-text3 {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 8px;
+
+        position: absolute;
+        width: 247px;
+        height: 286px;
+        left: 20px;
+        top: 2150px;
+
+    }
+
+    .music-text2 {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 8px;
+
+        position: absolute;
+        width: 270px;
+        height: 44px;
+        left: 20px;
+        top: 1850px;
+
+    }
+
+    .music-text {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 8px;
+
+        position: absolute;
+        width: 319px;
+        height: 242px;
+        left: 20px;
+        top: 1950px;
+    }
+
+    .music-text4 {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 8px;
+
+        position: absolute;
+        width: 319px;
+        height: 242px;
+        left: 80px;
+        top: 2545px;
+    }
+
+    .img-remov {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 8px;
+
+        position: absolute;
+        height: 250px;
+        left: 60px;
+        top: 2550px;
+
+    }
+
+    .boxhead {
+        margin-left: 0px
+    }
+
+    .brd {
+        margin-left: 50px;
+    }
+}
+
+@media (max-width: 425px) {
+    .ispolnitel {
+        position: absolute;
+        margin-top: 20px;
+        margin-left: 70px;
+    }
+
+    .tack {
+        position: relative;
+        float: right;
+        font-family: verdana;
+        padding-left: 10px;
+        text-align: center;
+        margin-right: 20px;
+        border: 4px double black;
+        /* Параметры границы */
+        background: rgb(255, 255, 255);
+        /* Цвет фона */
+        padding: 10px;
+        /* Поля вокруг текста */
+        border-radius: 20px;
+        margin-right: 20px;
+        text-align: center;
+    }
+
+    .music-text3 {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 8px;
+
+        position: absolute;
+        width: 247px;
+        height: 286px;
+        left: 20px;
+        top: 2150px;
+
+    }
+
+    .music-text2 {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 8px;
+
+        position: absolute;
+        width: 270px;
+        height: 44px;
+        left: 20px;
+        top: 1850px;
+
+    }
+
+    .music-text {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 8px;
+
+        position: absolute;
+        width: 319px;
+        height: 242px;
+        left: 20px;
+        top: 1950px;
+    }
+
+
+    .nav {
+        height: 80px;
+        margin-bottom: 55px;
+    }
+
+    .music-text4 {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 8px;
+
+        position: absolute;
+        width: 319px;
+        height: 242px;
+        left: 100px;
+        top: 2545px;
+    }
+
+    .img-remov {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 8px;
+
+        position: absolute;
+        height: 250px;
+        left: 100px;
+        top: 2550px;
+
+    }
+
+    .boxhead {
+        margin-left: 50px;
+    }
+}
+
+@media (max-width: 320px) {
+    .ispolnitel {
+        position: absolute;
+        margin-top: 20px;
+        margin-left: 70px;
+    }
+
+    .tack {
+        position: relative;
+        float: right;
+        font-family: verdana;
+        padding-left: 10px;
+        text-align: center;
+        margin-right: 20px;
+        border: 4px double black;
+        /* Параметры границы */
+        background: rgb(255, 255, 255);
+        /* Цвет фона */
+        padding: 10px;
+        /* Поля вокруг текста */
+        border-radius: 20px;
+        margin-right: 20px;
+        text-align: center;
+    }
+
+    .music-text3 {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 8px;
+
+        position: absolute;
+        width: 247px;
+        height: 286px;
+        left: 20px;
+        top: 2150px;
+
+    }
+
+    .music-text2 {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 8px;
+
+        position: absolute;
+        width: 270px;
+        height: 44px;
+        left: 20px;
+        top: 1850px;
+
+    }
+
+    .music-text {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 8px;
+
+        position: absolute;
+        width: 319px;
+        height: 242px;
+        left: 20px;
+        top: 1950px;
+    }
+
+
+    .nav {
+        height: 80px;
+        margin-bottom: 55px;
+    }
+
+    .music-text4 {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 8px;
+
+        position: absolute;
+        width: 319px;
+        height: 242px;
+        left: 50px;
+        top: 2850px;
+    }
+
+    .img-remov {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 8px;
+
+        position: absolute;
+        height: 50px;
+        left: 125px;
+        top: 2750px;
+
+    }
+
+    .boxhead {
+        margin-left: 10px;
+    }
+}
+
+@media (max-width: 375px) {
+    .ispolnitel {
+        position: absolute;
+        margin-top: 20px;
+        margin-left: 70px;
+    }
+
+    .tack {
+        position: relative;
+        float: right;
+        font-family: verdana;
+        padding-left: 10px;
+        text-align: center;
+        margin-right: 20px;
+        border: 4px double black;
+        /* Параметры границы */
+        background: rgb(255, 255, 255);
+        /* Цвет фона */
+        padding: 10px;
+        /* Поля вокруг текста */
+        border-radius: 20px;
+        margin-right: 20px;
+        text-align: center;
+    }
+
+    .music-text3 {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 8px;
+
+        position: absolute;
+        width: 247px;
+        height: 286px;
+        left: 20px;
+        top: 2150px;
+
+    }
+
+    .music-text2 {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 8px;
+
+        position: absolute;
+        width: 270px;
+        height: 44px;
+        left: 20px;
+        top: 1850px;
+
+    }
+
+    .music-text {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 8px;
+
+        position: absolute;
+        width: 319px;
+        height: 242px;
+        left: 20px;
+        top: 1950px;
+    }
+
+
+    .nav {
+        height: 80px;
+        margin-bottom: 55px;
+    }
+
+    .music-text4 {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 8px;
+
+        position: absolute;
+        width: 319px;
+        height: 242px;
+        left: 50px;
+        top: 2700px;
+    }
+
+    .img-remov {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 8px;
+
+        position: absolute;
+        height: 50px;
+        left: 125px;
+        top: 2750px;
+
+    }
+
+    .boxhead {
+        margin-left: 10px;
+    }
+}

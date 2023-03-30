@@ -1,0 +1,218 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra:wght@700&family=Edu+NSW+ACT+Foundation:wght@700&family=Fasthand&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+}
+
+body,
+html {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    background-color: #fafafa;
+    font-family: Trebuchet MS, Helvetica;
+}
+
+header {
+    width: 100%;
+    padding: 10px 0.5% 0px 0.5%;
+    background: transparent;
+    float: left;
+    position: fixed;
+}
+
+header #logo {
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+}
+
+header #logo span {
+    font-size: 1.7em;
+    line-height: 45px;
+    margin-left: 40px;
+    font-family: 'Fasthand', serif;
+}
+
+@media (min-width: 701px) {
+    #logo {
+        float: left;
+        width: 30%;
+        font-size: 1.1em;
+    }
+
+    #about {
+        float: right;
+        width: 30%;
+    }
+}
+
+@media (max-width: 700px) {
+    #logo {
+        text-align: center;
+        margin-top: 15px;
+        width: 100%;
+        font-size: 1.5em;
+    }
+
+    #about {
+        float: left;
+        width: 100%;
+    }
+}
+
+#about {
+    text-align: center;
+    font-size: 1em;
+    line-height: 40px;
+    margin-bottom: 10px;
+}
+
+#about>a {
+    color: #fff
+}
+
+#about>a:hover {
+    color: #b0b0b0;
+    text-decoration: underline;
+}
+
+#about>a:not(:last-child) {
+    margin-right: 7%;
+}
+
+.fixed {
+    z-index: 5000;
+    background-color: #fff;
+    border-bottom: 1px solid silver;
+}
+
+header.fixed #logo {
+    color: #000000;
+}
+
+.fixed #about a {
+    color: #343434;
+}
+
+.fixed #about a:hover {
+    color: #7c7c7c;
+}
+
+#top {
+    width: 100%;
+    height: 1000px;
+    background-image: url(https://top-fon.com/uploads/posts/2023-01/1674918086_top-fon-com-p-krasivii-muzikalnii-fon-dlya-prezentatsii-195.jpg);
+    background-blend-mode: multiply;
+    background-color: #2e3a44;
+    background-size: cover;
+    text-align: center;
+    color: #fff;
+    font-size: 3em;
+}
+
+@media (min-width: 721px) {
+    #top {
+        font-size: 3em;
+    }
+}
+
+@media (max-width: 720px) and (min-width: 361px){
+    #top {
+        font-size: 2em;
+        padding-top: 20%;
+    }
+}
+
+
+@media (max-width: 360px){
+    #top {
+        font-size: 1em;
+        padding-top: 80%;
+    }
+}
+
+#top h1 {
+    padding-top: 20%;
+}
+
+#top h3 {
+    color: #b3a4a4;
+}
+
+#glava {
+    width: 100%;
+    height: 1000px;
+    background-blend-mode: multiply;
+    background-color: #ffffff;
+    background-size: cover;
+    text-align: center;
+    color: #fff;
+}
+
+#glava h1 {
+    color: rgb(46, 117, 209);
+    font-family: 'Alkatra', serif;
+    font-size: 3em;
+}
+
+#noten>a:not(:last-child) {
+    margin-right: 10%;
+}
+
+@media (min-width: 1051px) {
+     button {
+        font-size: 0.9em;
+        margin-top: 10%;
+    }
+}
+
+@media (max-width: 1050px) and (min-width: 951px){
+     button {
+        font-size: 0.8em;
+        margin-left:4%;
+        margin-right:4%;
+        margin-top:15%;
+    }
+}
+
+@media (max-width: 950px) and (min-width: 721px){
+     button {
+        font-size: 0.6em;
+        margin-left:3%;
+        margin-right:3%;
+        margin-top:1000%;
+    }
+}
+
+@media (max-width: 720px){
+     button {
+        font-size: 0.5em;
+        margin-left:2%;
+        margin-right:2%;
+        margin-top:40%;
+    }
+}
+  
+ button {
+    outline: 0;
+    cursor: pointer;
+    border: none;
+    border-bottom: 5px solid #e0121e;
+    background: linear-gradient( 0deg, #ec212b, #fa7169);
+    color: #fff;
+    font-size: 0.5em;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    padding: 20px;
+    border-radius: 100px 100px 100px 100px / 200% 200%;
+    box-shadow: 0px 10px 15px 0px rgba(255, 111, 170, 0.75);
+    text-shadow: 1px 1px 2px gray, 0 0 1em red;
+    margin-left:5%;
+    margin-right:5%;
+    margin-top:10%;
+  }
+  

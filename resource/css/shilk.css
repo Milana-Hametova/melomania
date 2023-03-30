@@ -1,0 +1,199 @@
+.button {
+	text-align: left;
+	margin-right: 10px;
+	display: inline-block;
+}
+
+.player {
+	text-align: center;
+	margin-top: 10px;
+	width: 100vw;
+	min-width: 100vw;
+	margin-left: -100px;
+	border: 4px double black;
+	/* Параметры границы */
+	background: rgb(255, 255, 255);
+	/* Цвет фона */
+	padding: 10px;
+	/* Поля вокруг текста */
+	border-radius: 20px;
+}
+
+.img-mastab {
+	width: 70px;
+}
+
+.img-mastab2 {
+	width: 150px;
+	border-radius: 10;
+}
+
+.nav {
+	height: 75px;
+}
+
+.style-text {
+	font-size: 16px;
+	margin-top: 10px;
+}
+
+.style-text2 {
+	font-size: 6px;
+	margin-top: 10px;
+}
+
+.granica {
+	margin-left: 20px;
+	display: inline-block;
+}
+
+.boxhead a {
+	color: #000 !important;
+	text-decoration: none
+}
+
+.style-text3 {
+	font-size: 16px;
+	margin-top: 25px;
+}
+
+.style-text4 {
+	font-size: 16px;
+	margin-top: 25px;
+}
+
+.style-text5 {
+	font-size: 16px;
+	margin-top: 15px;
+}
+
+.style-text6 {
+	font-size: 16px;
+	margin-top: 15px;
+}
+
+.brd {
+	border: 4px double black;
+	/* Параметры границы */
+	background: rgb(255, 255, 255);
+	/* Цвет фона */
+	padding: 10px;
+	/* Поля вокруг текста */
+}
+
+
+.text-border {
+	text-align: center;
+}
+
+.fing-sps {
+	margin-left: 80px;
+}
+
+.fing-spc {
+	margin-left: 15px;
+}
+
+.parent {
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	overflow: auto;
+	z-index: 999999
+}
+
+.block {
+	width: 250px;
+	height: 250px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin: -125px 0 0 -125px;
+	z-index: 999999
+}
+
+.border_afk {
+	margin-right: 0px;
+}
+
+.tack {
+	position: relative;
+	float: right;
+	font-family: verdana;
+	padding-left: 10px;
+	text-align: end;
+	margin-right: 20px;
+	border: 4px double black;
+	/* Параметры границы */
+	background: rgb(255, 255, 255);
+	/* Цвет фона */
+	padding: 10px;
+	/* Поля вокруг текста */
+	border-radius: 20px;
+	margin-right: 20px;
+	text-align: center;
+}
+
+.fix-bag {
+	margin-top: -650px;
+	margin-left: 300px;
+}
+
+.fix-music-text {
+	display: flex;
+	width: 247px;
+	height: 286px;
+	left: -825px;
+	top: -50px;
+
+}
+
+.fix-music-text2 {
+	display: flex;
+	width: 270px;
+	height: 44px;
+	left: -500px;
+	top: -595px;
+}
+
+.fix-music-text3 {
+	display: flex;
+	width: 319px;
+	height: 242px;
+	left: -1100px;
+	top: -300px;
+}
+
+.fix-music-text4 {
+	margin-left: 30px;
+	margin-top: 70px;
+}
+
+.img-fix {
+	margin-left: 755px;
+	margin-top: 50px;
+}
+
+body {
+	background: linear-gradient(-45deg, #ee7752, #e73c7e, #55c8f1, #23d5ab);
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+	height: 100vh;
+  }
+  
+  @keyframes gradient {
+	0% {
+	  background-position: 0% 50%;
+	}
+	50% {
+	  background-position: 100% 50%;
+	}
+	100% {
+	  background-position: 0% 50%;
+	}
+  }
+
+.Choto {
+	background-color: rgb(48, 30, 30);
+}
